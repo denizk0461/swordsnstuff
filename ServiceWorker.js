@@ -1,9 +1,9 @@
 const cacheName = "denizk0461-Swords _ Stuff-0.0.1";
 const contentToCache = [
-    "Build/0.0.1-uncompressed.loader.js",
-    "Build/0.0.1-uncompressed.framework.js",
-    "Build/0.0.1-uncompressed.data",
-    "Build/0.0.1-uncompressed.wasm",
+    "Build/0.0.2.loader.js",
+    "Build/0.0.2.framework.js",
+    "Build/0.0.2.data",
+    "Build/0.0.2.wasm",
     "TemplateData/style.css"
 
 ];
